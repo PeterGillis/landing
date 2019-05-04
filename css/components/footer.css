@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+}
+
+.list-color a {
+  color: #3C2A9A;
+  font-size: 40px;
+}
+
+.footer ul {
+  list-style: none;
+}
+
+.list-color {
+  display: inline;
+  padding: 0 5px;
+}
+.list-inline {
+  padding: 0;
+}
+
+.footer a:hover {
+ cursor: pointer;
+ color: #1D938B;
+}
